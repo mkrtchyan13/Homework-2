@@ -1,0 +1,19 @@
+
+body{
+	background-image: url(https://scontent-sof1-1.xx.fbcdn.net/v/t35.0-12/21733820_1884116508519137_2127816901_o.jpg?oh=41ec31788463ae2ef8d3394bb2bff3c2&oe=59BB14E7);
+}
+
+#house{
+	color: white;
+	text-align: center;
+	font-size: 120px;
+}
+
+.fourhouses{
+	color: white;
+	text-align: left;
+	font-size: 80px;
+}
+
+.photo{width: 500px;
+		height: 350px;}
